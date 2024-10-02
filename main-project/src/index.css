@@ -1,0 +1,31 @@
+/* Fonts */
+@font-face {
+    font-family: "Founders";
+    src: url('./assets/Font/FoundersGrotesk-Semibold.ttf');
+}
+
+@font-face {
+    font-family: "Neue";
+    src: url('./assets/Font/NeueMontreal-Regular.ttf');
+}
+
+@font-face {
+    font-family: "Aovel";
+    src: url('./assets/Font/AovelSansRounded.ttf');
+}
+
+@font-face {
+    font-family: "Nasa";
+    src: url('./assets/Font/Nasa21.ttf');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
