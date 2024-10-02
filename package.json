@@ -1,0 +1,1 @@
+{"scripts":{"git":"git add . && git commit -m","postgit":"git push --all"},"dependencies":{"fsevents":"^2.3.3"}}
