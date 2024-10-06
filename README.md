@@ -1,26 +1,24 @@
 # IssueTrail
 
+**IssueTrail** is an open-source project aimed at helping students, developers, mentors, and organizations manage issues, tasks, and progress for Google Summer of Code (GSOC) projects efficiently. It tracks issues, deadlines, and allows collaboration in an intuitive way. We invite developers from all around the world to contribute and help improve the project.
+
 [![Issues](https://img.shields.io/github/issues/arshadcodes/IssueTrail)](https://github.com/arshadcodes/IssueTrail/issues)
 [![Stars](https://img.shields.io/github/stars/arshadcodes/IssueTrail)](https://github.com/arshadcodes/IssueTrail/stargazers)
 [![Forks](https://img.shields.io/github/forks/arshadcodes/IssueTrail)](https://github.com/arshadcodes/IssueTrail/network/members)
 
-## <a name="overview"></a>Overview
+## 📚 Table of Contents
 
-**IssueTrail** is an open-source project aimed at helping students, developers, mentors, and organizations manage issues, tasks, and progress for Google Summer of Code (GSOC) projects efficiently. It tracks issues, deadlines, and allows collaboration in an intuitive way. We invite developers from all around the world to contribute and help improve the project.
-
-## Table of Contents
-
-- [Overview](#overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
+- [Live Demo](#live-demo)
 - [Usage](#usage)
 - [Maintainers](#maintainers)
 - [Contributing](#contributing)
 
-## <a name="features"></a>Features
+## Features
 
 - **Issue Tracking**: Create, update, assign issues for GSOC projects.
 - **Task Prioritization**: Set priority levels for tasks and assign them to team members.
@@ -30,24 +28,23 @@
 - **Notifications**: Receive notifications on issue changes or updates.
 - **User Roles**: Manage permissions for contributors, mentors, and admins.
 
-## <a name="tech-stack"></a>Tech Stack
+## Tech Stack
 
 - **Frontend**: React.js
 - **Backend**: Node.js with Express
 - **Database**: MongoDB
 - **Version Control**: Git & GitHub for collaboration
 - **Authentication**: OAuth2 (Google Authentication)
-- **Deployment**: Docker & Kubernetes (optional)
 
-## <a name="installation"></a>Installation
+## Installation
 
-### <a name="prerequisites"></a>Prerequisites
+### Prerequisites
 
 - Node.js (v14 or above)
 - MongoDB
 - Git
 
-### <a name="setup"></a>Setup
+### Setup
 
 1. Clone the repository:
 
@@ -78,7 +75,7 @@ npm run dev
 
 5. Open your browser at http://localhost:3000.
 
-## <a name="usage"></a>🚀 Usage
+## Usage
 
 Once the server is running, you can:
 
@@ -89,7 +86,11 @@ Once the server is running, you can:
 - View and manage milestones
   To log in, use your Google account via OAuth2.
 
-## <a name="maintainers"></a>Maintainers
+## Live Demo
+
+Check out the Live Demo of our project [here](https://issuetrail.netlify.app) 🎉.
+
+## Maintainers
 
 ### 👥 Meet the team!
 
@@ -97,7 +98,7 @@ We're a passionate group of contributors dedicated to making this project awesom
 
 | Maintainer                                                                                    | GitHub                                                                                                                                              | Twitter                                                                                                                                          | LinkedIn                                                                                                                                                                        |
 | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Avatar](https://avatars.githubusercontent.com/u/183396171?s=64&v=4) **Arshad Khan**         | [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arshadcodes)      | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/arshadcodes)      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thearshadkhan/)                   |
+| ![Avatar](https://avatars.githubusercontent.com/u/183396171?s=64&v=4) **Arshad Khan**         | [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arshadcodes)      | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/arshadcodes)     | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thearshadkhan/)                |
 | ![Avatar](https://avatars.githubusercontent.com/u/105539123?s=64&v=4) **Aditya Kumar Mishra** | [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityakmrmishra/) | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/adityakmrmishra) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-mishra-6a025b216) |
 | ![Avatar](https://avatars.githubusercontent.com/u/91797653?s=64&v=4) **Abdul Mannan**         | [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdul-365)        | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Abdul_365m)      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmannan365/)               |
 | ![Avatar](https://avatars.githubusercontent.com/u/124447041?s=64&v=4) **Kapil Singh Negi**    | [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kapilsinghnegi)   | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/kapilsinghnegi_) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kapil-singh-negi/)                 |
@@ -105,7 +106,7 @@ We're a passionate group of contributors dedicated to making this project awesom
 | ![Avatar](https://avatars.githubusercontent.com/u/118008566?s=64&v=4) **Harsh Singh**         | [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshsingh69)     | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/harshlitcode)    | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshs-code/)                  |
 | ![Avatar](https://avatars.githubusercontent.com/u/118688453?s=64&v=4) **Arish Malik**         | [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohdarish4)       | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/mohdarish24)     | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-arish-8a874a221/)         |
 
-## <a name="contributing"></a>Contributing
+## Contributing
 
 We welcome contributions from the community! Whether you're fixing bugs, adding new features, improving documentation, or simply reporting issues, your help is greatly appreciated. To contribute:
 
